@@ -1,0 +1,178 @@
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\DataWebApi.dll.config
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\DataWebApi.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\DataWebApi.pdb
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\csc.exe
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\csc.exe.config
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\csc.rsp
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\csi.exe
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\csi.exe.config
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\csi.rsp
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.AppContext.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Console.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Globalization.Calendars.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.IO.Compression.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.IO.FileSystem.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Net.Http.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Net.Sockets.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.ValueTuple.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Xml.XPath.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\vbc.exe
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\vbc.exe.config
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\vbc.rsp
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\VBCSCompiler.exe
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Antlr3.Runtime.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\EntityFramework.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\EntityFramework.SqlServer.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Newtonsoft.Json.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Net.Http.Formatting.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Helpers.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Http.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Http.WebHost.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Mvc.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Optimization.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Razor.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.WebPages.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.WebPages.Razor.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\WebGrease.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\EntityFramework.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\EntityFramework.SqlServer.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Newtonsoft.Json.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Net.Http.Formatting.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Helpers.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Http.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Http.WebHost.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Mvc.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Optimization.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.Razor.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.WebPages.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\System.Web.WebPages.Razor.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Antlr3.Runtime.pdb
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\obj\Debug\DataWebApi.csproj.AssemblyReference.cache
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\obj\Debug\DataWebApi.csproj.CoreCompileInputs.cache
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\obj\Debug\DataWebApi.csproj.CopyComplete
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\obj\Debug\DataWebApi.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\DataWebApi\obj\Debug\DataWebApi.pdb
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\DataWebApi.dll.config
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\DataWebApi.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\DataWebApi.pdb
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\csc.exe
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\csc.exe.config
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\csc.rsp
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\csi.exe
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\csi.exe.config
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\csi.rsp
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.AppContext.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Console.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Globalization.Calendars.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.IO.Compression.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.IO.FileSystem.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Net.Http.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Net.Sockets.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.ValueTuple.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Xml.XPath.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\vbc.exe
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\vbc.exe.config
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\vbc.rsp
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\VBCSCompiler.exe
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Antlr3.Runtime.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\EntityFramework.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\EntityFramework.SqlServer.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Newtonsoft.Json.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Net.Http.Formatting.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Helpers.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Http.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Http.WebHost.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Mvc.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Optimization.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Razor.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.WebPages.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.WebPages.Razor.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\WebGrease.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\EntityFramework.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\EntityFramework.SqlServer.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Newtonsoft.Json.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Net.Http.Formatting.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Helpers.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Http.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Http.WebHost.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Mvc.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Optimization.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.Razor.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.WebPages.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\System.Web.WebPages.Razor.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Antlr3.Runtime.pdb
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\obj\Debug\DataWebApi.csproj.AssemblyReference.cache
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\obj\Debug\DataWebApi.csproj.CoreCompileInputs.cache
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\obj\Debug\DataWebApi.csproj.CopyComplete
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\obj\Debug\DataWebApi.dll
+E:\COMP3008 Distributed Computing\Tute_6_WebApi_Issue_20537274\Tute 6\Tute 6\DataWebApi\obj\Debug\DataWebApi.pdb

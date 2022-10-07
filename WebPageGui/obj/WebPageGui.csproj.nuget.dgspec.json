@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\WebPageGui\\WebPageGui.csproj": {}
+  },
+  "projects": {
+    "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\BuissnessWebApi\\BuissnessWebApi.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\BuissnessWebApi\\BuissnessWebApi.csproj",
+        "projectName": "BuissnessWebApi",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\BuissnessWebApi\\BuissnessWebApi.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj",
+        "projectName": "DataWebApi",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\WebPageGui\\WebPageGui.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\WebPageGui\\WebPageGui.csproj",
+        "projectName": "WebPageGui",
+        "projectPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\WebPageGui\\WebPageGui.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\WebPageGui\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\BuissnessWebApi\\BuissnessWebApi.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\BuissnessWebApi\\BuissnessWebApi.csproj"
+              },
+              "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj": {
+                "projectPath": "E:\\COMP3008 Distributed Computing\\Tute_6_WebApi_Issue_20537274\\Tute 6\\Tute 6\\DataWebApi\\DataWebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

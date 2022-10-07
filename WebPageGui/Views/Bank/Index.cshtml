@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    #container {
+        text-align: center;
+    }
+</style>
+<div id="Form">
+    <form style="margin: auto; width: 220px">
+
+        <input type="number" id="SId" name="SId" placeholder="ID" />
+        <input type="text" id="SFname" name="SFname" placeholder="First Name" />
+        <input type="text" id="SLname" name="SLname" placeholder="Last Name" />
+        <input type="number" id="SAccnum" name="SAccnum" placeholder="Account Number" />
+        <input type="number" id="SBal" name="SBal" placeholder="Ballance" />
+        <input type="number" id="SPin" name="SPin" placeholder="Pin" />
+        </forms>
+
+        <div id="container">
+            <button id="search" onclick="search()">Search</button>
+            <button id="insert" onclick="insert()">Insert</button>
+            <button id="update" onclick="update()">Update</button>
+            <button id="delete" onclick="delete()">Delete</button>
+            <button id="generate" onclick="generate()">Generate</button>
+        </div>
+
+</div>
+<script>
+    function search() {
+        $.ajax({
+            url: '/bank/search/' + $('#SId').val(),
+            type: 'get',
+            contentType: 'application/json',
+            processData: false,
+            success: function (data, textStatus, jQxhr) {
+                var obj = JSON.parse(data);
+                $("#SFname").val(obj.firstName);
+                $("#SLname").val(obj.lastName);
+                $("#SAccnum").val(obj.acctNo);
+                $("#SBal").val(obj.balance);
+                $("#SPin").val(obj.pin);
+
+
+            },
+            error: function (jqXhr, textStatus, errorThrown) {
+                console.log(errorThrown);
+            }
+        });
+    }
+
+</script>

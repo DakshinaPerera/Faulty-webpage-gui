@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @using WebPageGui.Models;
+    @model IEnumerable<BankDetail>;
+
+}
+<div id="tableview">
+    <table>
+
+        @foreach (var bank in Model)
+        {
+            <tr>
+                <td>@bank.Id</td>
+                <td>@bank.firstName</td>
+                <td>@bank.lastName</td>
+                <td>@bank.pin</td>
+                <td>@bank.balance</td>
+                <td>@bank.acctNo</td>
+            </tr>
+        }
+    </table>
+</div>
