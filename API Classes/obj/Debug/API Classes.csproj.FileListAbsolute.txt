@@ -1,0 +1,6 @@
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\API Classes\bin\Debug\API Classes.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\API Classes\bin\Debug\API Classes.pdb
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\API Classes\obj\Debug\API Classes.csproj.AssemblyReference.cache
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\API Classes\obj\Debug\API Classes.csproj.CoreCompileInputs.cache
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\API Classes\obj\Debug\API Classes.dll
+E:\COMP3008 Distributed Computing\Tutue 1\ClassLibrary1\API Classes\obj\Debug\API Classes.pdb

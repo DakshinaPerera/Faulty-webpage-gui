@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfAppAsy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAsy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="firstName" HorizontalAlignment="Center" Margin="0,41,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="160" Height="27" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="lastName" HorizontalAlignment="Center" Margin="0,73,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="160" Height="27" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="accNum" HorizontalAlignment="Center" Margin="0,105,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Width="160" Height="27" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="pinNo" HorizontalAlignment="Center" Margin="0,137,0,0" TextWrapping="Wrap" Text="Pin" VerticalAlignment="Top" Width="160" Height="27" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="balance" HorizontalAlignment="Center" Margin="0,169,0,0" TextWrapping="Wrap" Text="Balance" VerticalAlignment="Top" Width="160" Height="27" TextChanged="TextBox_TextChanged"/>
+        <Rectangle HorizontalAlignment="Center" Height="1" Margin="0,238,0,0" Stroke="Black" VerticalAlignment="Top" Width="800"/>
+        <TextBlock x:Name="Total_Entries" HorizontalAlignment="Left" Margin="229,265,0,0" TextWrapping="Wrap" Text="Total Entries" VerticalAlignment="Top" Width="73" Height="27"/>
+        <TextBox x:Name="totalNo" HorizontalAlignment="Center" Margin="0,264,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="27" TextChanged="TextBox_TextChanged"/>
+        <Button x:Name="GoButton" Content="Go" HorizontalAlignment="Left" Margin="485,297,0,0" VerticalAlignment="Top" Height="27" Width="57" Click="Button_Click" RenderTransformOrigin="1.065,0.717"/>
+        <TextBox x:Name="indexNo" HorizontalAlignment="Center" Margin="0,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="26" TextChanged="TextBox_TextChanged" Text="INDEX"/>
+        <TextBox x:Name="search" HorizontalAlignment="Center" Margin="0,329,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160" Height="26" TextChanged="TextBox_TextChanged" Text="Full Name"/>
+        <Button x:Name="SearchButton" Content="Search" HorizontalAlignment="Left" Margin="485,328,0,0" VerticalAlignment="Top" Height="27" Width="57" Click="SearchButton_Click"/>
+        <Label x:Name="statusLabel" Content=" " HorizontalAlignment="Center" Margin="0,360,0,0" VerticalAlignment="Top" Width="160" Height="26"/>
+    </Grid>
+</Window>
